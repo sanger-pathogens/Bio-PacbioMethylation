@@ -1,0 +1,7 @@
+refName,tpl,strand,base,score,tMean,tErr,modelPrediction,ipdRatio,coverage,frac,fracLow,fracUp
+"Chromosome, foo, bar",1,0,C,10,0.948,0.435,0.313,3.031,8,,,
+"Chromosome, foo, bar",1,1,G,32,0.756,0.142,0.180,4.198,15,,,
+"Chromosome, foo, bar",2,0,G,11,1.636,0.594,0.720,2.272,9,0.42,,
+"Chromosome, foo, bar",2,1,C,15,0.533,0.140,0.238,2.234,15,0.43,,
+Plasmid,42,0,A,2,0.809,0.164,0.875,0.925,18,0.51,,
+Plasmid,42,1,T,2,0.809,0.164,0.875,0.926,18,0.12,,
