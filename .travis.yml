@@ -4,6 +4,8 @@ addons:
   apt:
     packages:
     - libssl-dev
+    - tabix
+    - bgzip
 perl:
   - "5.14"
   - "5.24"
