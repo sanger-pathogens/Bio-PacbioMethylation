@@ -4,6 +4,9 @@ Runs Pacbio methylation pipeline
 [![Build Status](https://travis-ci.org/sanger-pathogens/Bio-PacbioMethylation.svg?branch=master)](https://travis-ci.org/sanger-pathogens/Bio-PacbioMethylation)   
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-brightgreen.svg)](https://github.com/sanger-pathogens/Bio-PacbioMethylation/blob/master/GPL-LICENSE)   
 
+# This repository is no longer supported.  Use at your own risk.
+
+
 ## Contents
   * [Introduction](#introduction)
   * [Installation](#installation)
@@ -77,5 +80,3 @@ Options:
 ## License
 Bio-PacbioMethylation is free software, licensed under [GPLv3](https://github.com/sanger-pathogens/Bio-PacbioMethylation/blob/master/GPL-LICENSE).
 
-## Feedback/Issues
-Please report any issues to the [issues page](https://github.com/sanger-pathogens/Bio-PacbioMethylation/issues) or email path-help@sanger.ac.uk.
